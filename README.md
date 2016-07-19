@@ -14,11 +14,13 @@ Setting up the widget doesn't require any additional work in blueprints, just ad
 create a new one and just add it.
 
 For creating a new widget:  
-1. Add a new User Widget to your project.
-2. To the Canvas Panel add a new Overlay widget
-3. The the new Overlay widget the CUL_Frame widget as first child.
-4. Set the CUL_Frame to span the Overlay vertically and horizontally
-5. Continue adding elements to the Overlay as required
-6. Run the project
+1. Add a new User Widget to your project.  
+2. To the Canvas Panel add a new Overlay widget.  
+3. The the new Overlay widget the CUL_Frame widget as first child.  
+4. Set the CUL_Frame to span the Overlay vertically and horizontally.  
+5. Continue adding elements to the Overlay as required.  
+6. Run the project.  
 
 A small tutorial on how to set up the widget can be found here: https://youtu.be/MvB0rJP8Jnc
+
+Have Fun!
